@@ -4,3 +4,4 @@
 硬件共享，比如传真；软件共享，比如共写excel，不需要下载，也可以一起使用；数据共享，比如百度文库可以共享下载文档。
 可靠性，比如信息通信，原来的链路中的某个节点去世了，但我们可以走其他链路迂回传输信息，这个几点称替代机
 ![image](https://user-images.githubusercontent.com/96447102/191117590-b35d1169-7f01-4e6b-bc6c-a220c918a3b1.png)
+![image](https://user-images.githubusercontent.com/96447102/191120697-59104ddc-e001-4581-b6bf-ac8e6b415ffa.png)
