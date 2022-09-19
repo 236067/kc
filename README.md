@@ -7,3 +7,5 @@
 ![image](https://user-images.githubusercontent.com/96447102/191120697-59104ddc-e001-4581-b6bf-ac8e6b415ffa.png)
 ![image](https://user-images.githubusercontent.com/96447102/191122874-0ed6c80d-d872-4440-9056-a5c269807893.png)
 资源子网负责在设备中进行数据的处理然后给通讯子网实现数据通信
+![image](https://user-images.githubusercontent.com/96447102/191125395-c704605e-7717-4568-8432-7b425e509459.png)
+广域网跨度很大，比如跨国网络，城域网，用于城市的网络，局域网，1km左右的网络覆盖教室楼宇的网络，比喻校园网就是多个广域网做成，个人区域网，就像是个人的智能手机网络
