@@ -11,3 +11,4 @@
 广域网跨度很大，比如跨国网络，城域网，用于城市的网络，局域网，1km左右的网络覆盖教室楼宇的网络，比喻校园网就是多个广域网做成，个人区域网，就像是个人的智能手机网络
 ![image](https://user-images.githubusercontent.com/96447102/191125545-94616c8d-a6e2-4e3d-a641-c078d1269daa.png)
 ![image](https://user-images.githubusercontent.com/96447102/191337715-cce08d1c-8bb2-4cc9-a7e6-c104876b90f0.png)
+![image](https://user-images.githubusercontent.com/96447102/191338401-c325b867-bb07-4e3f-a504-682eacceb0aa.png)
