@@ -16,7 +16,11 @@
 ![image](https://user-images.githubusercontent.com/96447102/191341379-3e5c4366-f70e-4d32-8673-1c1ac2ebd396.png)
 ![image](https://user-images.githubusercontent.com/96447102/191343995-1f214796-bfed-4530-b726-6d765b29141a.png)
 ![image](https://user-images.githubusercontent.com/96447102/191345631-969e9fa8-dc85-4448-b0ca-f7b129bb70e7.png)
-
+![image](https://user-images.githubusercontent.com/96447102/191579473-2c805552-97e1-45b5-98bb-67509e14eaf6.png)
 传播时延：比特流通过特殊手法以电磁波为载体往前传播
+排队时延：比特流进路由器要排队并等待路由器来对他进行处理，处理时延后输出的时候也是一样要排队等路由器可以处理的时候才可以传出
+处理时延：对路由器进行检错，然后通过数据流上的数据信息寻找从那个路由器上的口传入
+![image](https://user-images.githubusercontent.com/96447102/191580675-7079685a-b508-4899-b5ab-fda94de4c006.png)
+![image](https://user-images.githubusercontent.com/96447102/191581040-d781f796-8847-490a-bf5b-9ed94449126a.png)
 
 
