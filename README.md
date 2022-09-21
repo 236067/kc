@@ -22,5 +22,6 @@
 处理时延：对路由器进行检错，然后通过数据流上的数据信息寻找从那个路由器上的口传入
 ![image](https://user-images.githubusercontent.com/96447102/191580675-7079685a-b508-4899-b5ab-fda94de4c006.png)
 ![image](https://user-images.githubusercontent.com/96447102/191581040-d781f796-8847-490a-bf5b-9ed94449126a.png)
+rtt是不包含传输时延的，他只包括数组在链路上的时延
 
 
