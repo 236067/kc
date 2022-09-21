@@ -16,3 +16,7 @@
 ![image](https://user-images.githubusercontent.com/96447102/191341379-3e5c4366-f70e-4d32-8673-1c1ac2ebd396.png)
 ![image](https://user-images.githubusercontent.com/96447102/191343995-1f214796-bfed-4530-b726-6d765b29141a.png)
 ![image](https://user-images.githubusercontent.com/96447102/191345631-969e9fa8-dc85-4448-b0ca-f7b129bb70e7.png)
+
+传播时延：比特流通过特殊手法以电磁波为载体往前传播
+
+
