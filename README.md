@@ -24,8 +24,12 @@
 ![image](https://user-images.githubusercontent.com/96447102/191581040-d781f796-8847-490a-bf5b-9ed94449126a.png)
 ![image](https://user-images.githubusercontent.com/96447102/191582363-39349539-5abd-44fe-9ddb-97cc7c9e465c.png)
 rtt是不包含传输时延的，他只包括数组在链路上的时延
-![image](https://user-images.githubusercontent.com/96447102/191583838-25ba321d-2429-454b-aa08-e89a7bb771d8.png)
-![image](https://user-images.githubusercontent.com/96447102/192896338-b4b8d04e-2584-4825-b1bb-1fe16bb84fbe.png)
+![image](https://user-images.githubusercontent.com/96447102/192897078-bc52bba0-7cf4-4c99-aec2-210e382459f8.png)
+![image](https://user-images.githubusercontent.com/96447102/192897182-8c7998ae-3f3f-4465-99a5-61fa971d015f.png)
+![image](https://user-images.githubusercontent.com/96447102/192897230-d4ef67c8-d86b-4cf5-9347-2a64d569b654.png)
+上一层的pdu就是下一层的sdu
+![image](https://user-images.githubusercontent.com/96447102/192897316-dd3fb701-dc01-4272-a4a0-f93267d10b94.png)
 
+![image](https://user-images.githubusercontent.com/96447102/191583838-25ba321d-2429-454b-aa08-e89a7bb771d8.png)
 
 
