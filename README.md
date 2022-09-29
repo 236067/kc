@@ -38,7 +38,10 @@ rtt是不包含传输时延的，他只包括数组在链路上的时延
 ![image](https://user-images.githubusercontent.com/96447102/193007128-b08e6a6f-9e45-4b4e-bccd-d36fb23bc280.png)
 ![image](https://user-images.githubusercontent.com/96447102/193009312-09964c95-53fe-4c3e-b149-414e188866da.png)
 ![image](https://user-images.githubusercontent.com/96447102/193013342-47f9a947-c9c5-4d98-b129-65dd45099fac.png)
-
-
+![image](https://user-images.githubusercontent.com/96447102/193128692-e156f000-056d-49b9-a42b-0e5045fa9abe.png)
+可靠传输：发送端和接收端确认连接，发出端发一个文件，他是由报文段形式发出的，接收方收到后返回一个确认信息，接收方收到确认信息后才能继续发送，如果没有收到确认信息，就会再发一遍刚才的数据报（用于数据比较大的传输）
+不可靠传输：不需要建立连接，也不需要有确认信息，（用于数据比较小的传输）
+差错控制：如果传输的报文段出了出了差错，传输层会进行修补
+流量控制，接收方可能会来不及接受不发出方的报文段，传输层就会让发出方慢点发送
 
 
