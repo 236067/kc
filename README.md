@@ -47,4 +47,7 @@ rtt是不包含传输时延的，他只包括数组在链路上的时延
 分组和数据报就像父与子，分组是数据报分割形成的
 ![image](https://user-images.githubusercontent.com/96447102/193130081-f100b71d-6114-4708-aae1-b9975b03cba3.png)
 ![image](https://user-images.githubusercontent.com/96447102/193131542-c3015d8f-1dbb-4d69-95da-a44da32881db.png)
-
+![image](https://user-images.githubusercontent.com/96447102/193132563-606c4ee3-0100-49a7-91ab-ce0a2f2f60b4.png)
+单工：单方向传输，半双工：两方都可以传输但同一时间只能有一方传输，双工：可以同时传输
+比特同步：发一个1，收到一个1
+比特编码:规定下用什么电压表示1，用什么电压表示0
