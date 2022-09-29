@@ -45,4 +45,5 @@ rtt是不包含传输时延的，他只包括数组在链路上的时延
 流量控制，接收方可能会来不及接受不发出方的报文段，传输层就会让发出方慢点发送
 ![image](https://user-images.githubusercontent.com/96447102/193129097-6bc74824-3038-41c9-b8c9-b426c0bf74a1.png)
 分组和数据报就像父与子，分组是数据报分割形成的
+![image](https://user-images.githubusercontent.com/96447102/193130081-f100b71d-6114-4708-aae1-b9975b03cba3.png)
 
