@@ -51,3 +51,9 @@ rtt是不包含传输时延的，他只包括数组在链路上的时延
 单工：单方向传输，半双工：两方都可以传输但同一时间只能有一方传输，双工：可以同时传输
 比特同步：发一个1，收到一个1
 比特编码:规定下用什么电压表示1，用什么电压表示0
+![image](https://user-images.githubusercontent.com/96447102/193133996-433c9407-6602-424c-bb33-23ac2af7c33e.png)
+tcp/ip是现有的协议栈然后才有的参考模型
+![image](https://user-images.githubusercontent.com/96447102/193135839-b2beea59-c091-463f-92d6-ff03344096ea.png)
+![image](https://user-images.githubusercontent.com/96447102/193136310-13af644e-cdd9-4d21-8606-f83c2f733248.png)
+![image](https://user-images.githubusercontent.com/96447102/193136919-de2be59f-fca8-45df-a4f5-9d9e6ef241f0.png)
+
