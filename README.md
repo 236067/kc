@@ -37,6 +37,7 @@ rtt是不包含传输时延的，他只包括数组在链路上的时延
 ![image](https://user-images.githubusercontent.com/96447102/193006182-246b2596-06a6-4848-9f13-98f0f9eafd6d.png)
 ![image](https://user-images.githubusercontent.com/96447102/193007128-b08e6a6f-9e45-4b4e-bccd-d36fb23bc280.png)
 ![image](https://user-images.githubusercontent.com/96447102/193009312-09964c95-53fe-4c3e-b149-414e188866da.png)
+![image](https://user-images.githubusercontent.com/96447102/193013342-47f9a947-c9c5-4d98-b129-65dd45099fac.png)
 
 
 
