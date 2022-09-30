@@ -60,4 +60,5 @@ tcp/ip是现有的协议栈然后才有的参考模型
 ![image](https://user-images.githubusercontent.com/96447102/193351404-ff17d81f-cf9b-4066-a7ef-1e7fa179d7cf.png)
 ![image](https://user-images.githubusercontent.com/96447102/193352393-8e6bb492-f108-40e8-a985-9babdc1de87e.png)
 ![image](https://user-images.githubusercontent.com/96447102/193353390-698f0dd7-c0af-44d7-90fc-7e1862212fa8.png)
+![image](https://user-images.githubusercontent.com/96447102/193353759-6f64d64d-7f6c-4374-95ac-50d5d7ebce9f.png)
 
